@@ -1,0 +1,6 @@
+gTTS
+SpeechRecognition
+pyFirmata
+python-engineio
+pyttsx3
+PyAudio
