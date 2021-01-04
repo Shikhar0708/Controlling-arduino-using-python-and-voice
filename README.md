@@ -8,4 +8,3 @@ then open any IDE or windows cmd and open the main.py file and just run it if yo
 on CMD then use command "python main.py"
 if it returns error like python not found then go add the path of python in the environment variable.
 ***NOTE - This method also works on nodemcu but it will be only serial transfer just like arduino. 💯
- main
